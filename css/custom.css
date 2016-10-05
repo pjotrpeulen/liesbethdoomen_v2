@@ -1,0 +1,71 @@
+@media (max-width: 480px) {
+    .display-3
+    {
+        padding-top: 2rem !important;
+    }
+}
+
+.jumbotron 
+{
+    background: url(../images/mill-sky2.jpg);
+    background-size: cover;
+    color: #8C001A;
+    text-shadow: 5px solid black;
+    padding-top: 3rem;
+    padding-bottom: 0rem;
+    margin-bottom: 0rem;
+}
+
+.navbar
+{
+    padding-bottom: 0rem;
+    padding-top: 0rem;
+}
+
+.navbar .navbar-brand
+{
+    padding-bottom: 0rem;
+    padding-top: 0rem;
+}
+
+@media (min-width: 767px) {
+    .jumbotron {
+        padding-bottom: 4rem !important;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .jumbotron 
+    {
+        padding-bottom: 6rem !important;
+    }
+}
+
+@media (min-width: 767px) {
+    .jumbotron {
+        padding-bottom: 4rem !important;
+    }
+}
+
+@media (min-width: 992px) {
+    #profiel-picture 
+    {
+        padding-top: 2rem !important;
+        padding-bottom: 4rem !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    #profiel-picture 
+    {
+        padding-top: 2rem !important;
+        padding-bottom: 4rem !important;
+    }
+}
+
+
+
+
+
+
