@@ -24,6 +24,11 @@
     margin-bottom: 1rem;
 }
 
+#text
+{
+    text-align: left;
+}
+
 .navbar
 {
     padding-bottom: 0rem;
